@@ -1,2 +1,2 @@
-# Python
-This repo contains the assignments done for Programming for Everybody (Getting Started with Python) course on Coursera 
+# LeetCode
+This repo contains all the programming questions from LeetCode in languages: C, Python and MySQL 
