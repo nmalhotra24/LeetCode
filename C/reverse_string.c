@@ -1,4 +1,4 @@
-//Fuction to reverse the order of a string
+//Function to reverse the order of a string
 
 #include <stdlib.h>
 #include <stdio.h>
